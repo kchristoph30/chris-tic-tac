@@ -4,3 +4,8 @@ body {font-family: sans-serif;}
     width: 300px;
     background-color: #ddd;
 }
+
+#box{
+    height: 100px;
+    width: 100px;
+}

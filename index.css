@@ -1,1 +1,6 @@
 body {font-family: sans-serif;}
+#board{
+    height: 300px;
+    width: 300px;
+    color: #ddd;
+}

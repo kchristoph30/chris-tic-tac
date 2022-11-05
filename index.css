@@ -5,7 +5,10 @@ body {font-family: sans-serif;}
     background-color: #ddd;
 }
 
-#box{
-    height: 100px;
-    width: 100px;
+.box{
+    height: 96px;
+    width: 96px;
+    border: 2px solid black;
 }
+.row{display: flex;
+flex-direction: column;}
